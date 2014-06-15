@@ -1,4 +1,8 @@
-boilerplate-sdk
-===============
+# 
 
-My personal boilerplate for Firefox SDK add-ons
+**This add-on is not yet functional!**
+
+# To-dos
+
+# Possible to-dos
+
