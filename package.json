@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "title": "",
-  "id": "@brett-zamir.me",
-  "description": "",
-  "author": "Brett Zamir",
-  "license": "MIT",
-  "version": "0.1.0"
+    "name": "",
+    "id": "@brett-zamir.me",
+    "main": "lib/main",
+    "description": "",
+    "author": "Brett Zamir",
+    "license": "MIT",
+    "version": "0.1.0"
 }
