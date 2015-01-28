@@ -1,6 +1,6 @@
-# 
+# boilerplate-sdk
 
-**This add-on is not yet functional!**
+Fork this repo for a i18n-aware Firefox SDK add-on boilerplate.
 
 # To-dos
 
