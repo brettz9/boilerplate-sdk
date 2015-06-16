@@ -1,6 +1,8 @@
-# boilerplate-sdk
+# pageladder
 
-Fork this repo for a i18n-aware Firefox SDK add-on boilerplate.
+This Firefox add-on allows one to ascend or descend numbered site pages.
+
+***NOT YET FUNCTIONAL!!!***
 
 # To-dos
 

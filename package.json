@@ -1,8 +1,8 @@
 {
-    "name": "",
-    "id": "@brett-zamir.me",
+    "name": "pageladder",
+    "id": "pageladder@brett-zamir.me",
     "main": "lib/main",
-    "description": "",
+    "description": "Ascend or descend numbered site pages.",
     "author": "Brett Zamir",
     "license": "MIT",
     "version": "0.1.0"
