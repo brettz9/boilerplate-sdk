@@ -1,0 +1,9 @@
+.git
+.gitignore
+.jpmignore
+
+*.lnk
+*.xpi
+
+doc
+test
