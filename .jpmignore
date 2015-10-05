@@ -3,6 +3,7 @@
 .jpmignore
 
 *.lnk
+*.bat
 *.xpi
 
 doc
