@@ -6,5 +6,9 @@
     "author": "Brett Zamir",
     "license": "MIT",
     "version": "0.1.0",
+    "keywords": [],
+    "bugs": "https://github.com/brettz9/pageladder/issues",
+    "repository": "https://github.com/brettz9/pageladder",
+    "contributors": [],
     "permissions": {"private-browsing": true}
 }
