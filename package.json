@@ -1,14 +1,18 @@
 {
     "name": "pageladder",
+    "title": "Page Ladder",
     "id": "pageladder@brett-zamir.me",
     "main": "lib/main",
     "description": "Ascend or descend numbered site pages.",
     "author": "Brett Zamir",
     "license": "MIT",
+    "engines": {
+      "firefox": ">=38.0a1"
+    },
     "version": "0.1.0",
-    "keywords": [],
     "bugs": "https://github.com/brettz9/pageladder/issues",
     "repository": "https://github.com/brettz9/pageladder",
     "contributors": [],
+    "keywords": ["jetpack"],
     "permissions": {"private-browsing": true}
 }
